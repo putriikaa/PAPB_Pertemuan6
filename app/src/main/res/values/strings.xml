@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pertemuan6</string>
+    <array name="cities">
+        <item>Aceh</item>
+        <item>Medan</item>
+        <item>DKI Jakarta</item>
+        <item>Bandung</item>
+        <item>Yogyakarta</item>
+
+    </array>
+</resources>
